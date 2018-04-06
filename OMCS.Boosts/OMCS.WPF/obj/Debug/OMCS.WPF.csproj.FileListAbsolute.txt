@@ -1,0 +1,211 @@
+D:\0.oraycn\1.Project\01.OrayExtends\OMCS.WPF\obj\Debug\CameraConnector.baml
+D:\0.oraycn\1.Project\01.OrayExtends\OMCS.WPF\obj\Debug\ChannelQualityDisplayer.baml
+D:\0.oraycn\1.Project\01.OrayExtends\OMCS.WPF\obj\Debug\DesktopConnector.baml
+D:\0.oraycn\1.Project\01.OrayExtends\OMCS.WPF\obj\Debug\WhiteBoardConnector.baml
+D:\0.oraycn\1.Project\01.OrayExtends\OMCS.WPF\obj\Debug\CameraConnector.g.cs
+D:\0.oraycn\1.Project\01.OrayExtends\OMCS.WPF\obj\Debug\ChannelQualityDisplayer.g.cs
+D:\0.oraycn\1.Project\01.OrayExtends\OMCS.WPF\obj\Debug\DesktopConnector.g.cs
+D:\0.oraycn\1.Project\01.OrayExtends\OMCS.WPF\obj\Debug\WhiteBoardConnector.g.cs
+D:\0.oraycn\1.Project\01.OrayExtends\OMCS.WPF\obj\Debug\OMCS.WPF_MarkupCompile.cache
+D:\0.oraycn\1.Project\01.OrayExtends\OMCS.WPF\obj\Debug\OMCS.WPF.g.resources
+D:\0.oraycn\1.Project\01.OrayExtends\OMCS.WPF\obj\Debug\OMCS.WPF.Properties.Resources.resources
+D:\0.oraycn\1.Project\01.OrayExtends\OMCS.WPF\obj\Debug\OMCS.WPF.csproj.GenerateResource.Cache
+D:\0.oraycn\1.Project\01.OrayExtends\OMCS.WPF\bin\Debug\OMCS.WPF.dll
+D:\0.oraycn\1.Project\01.OrayExtends\OMCS.WPF\bin\Debug\OMCS.WPF.pdb
+D:\0.oraycn\1.Project\01.OrayExtends\OMCS.WPF\bin\Debug\ESBasic.dll
+D:\0.oraycn\1.Project\01.OrayExtends\OMCS.WPF\bin\Debug\OMCS.dll
+D:\0.oraycn\1.Project\01.OrayExtends\OMCS.WPF\bin\Debug\PaintFramework.dll
+D:\0.oraycn\1.Project\01.OrayExtends\OMCS.WPF\bin\Debug\ESBasic.xml
+D:\0.oraycn\1.Project\01.OrayExtends\OMCS.WPF\bin\Debug\OMCS.xml
+D:\0.oraycn\1.Project\01.OrayExtends\OMCS.WPF\obj\Debug\OMCS.WPF.dll
+D:\0.oraycn\1.Project\01.OrayExtends\OMCS.WPF\obj\Debug\OMCS.WPF.pdb
+D:\0.oraycn\1.Project\01.OrayExtends\OMCS.WPF\obj\Debug\OMCS.WPF.csprojResolveAssemblyReference.cache
+E:\0.work\06. demos\omcs_1031\2.OMCS.Demos.WPF\OMCS.WPF\bin\Debug\OMCS.WPF.XML
+E:\0.work\06. demos\omcs_1031\2.OMCS.Demos.WPF\OMCS.WPF\bin\Debug\OMCS.WPF.dll
+E:\0.work\06. demos\omcs_1031\2.OMCS.Demos.WPF\OMCS.WPF\bin\Debug\OMCS.WPF.pdb
+E:\0.work\06. demos\omcs_1031\2.OMCS.Demos.WPF\OMCS.WPF\bin\Debug\ESBasic.dll
+E:\0.work\06. demos\omcs_1031\2.OMCS.Demos.WPF\OMCS.WPF\bin\Debug\OMCS.dll
+E:\0.work\06. demos\omcs_1031\2.OMCS.Demos.WPF\OMCS.WPF\bin\Debug\PaintFramework.dll
+E:\0.work\06. demos\omcs_1031\2.OMCS.Demos.WPF\OMCS.WPF\bin\Debug\ESBasic.xml
+E:\0.work\06. demos\omcs_1031\2.OMCS.Demos.WPF\OMCS.WPF\bin\Debug\OMCS.xml
+E:\0.work\06. demos\omcs_1031\2.OMCS.Demos.WPF\OMCS.WPF\bin\Debug\PaintFramework.xml
+E:\0.work\06. demos\omcs_1031\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\ResolveAssemblyReference.cache
+E:\0.work\06. demos\omcs_1031\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\CameraConnector.baml
+E:\0.work\06. demos\omcs_1031\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\ChannelQualityDisplayer.baml
+E:\0.work\06. demos\omcs_1031\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\DesktopConnector.baml
+E:\0.work\06. demos\omcs_1031\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\WhiteBoardConnector.baml
+E:\0.work\06. demos\omcs_1031\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\CameraConnector.g.cs
+E:\0.work\06. demos\omcs_1031\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\ChannelQualityDisplayer.g.cs
+E:\0.work\06. demos\omcs_1031\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\DesktopConnector.g.cs
+E:\0.work\06. demos\omcs_1031\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\WhiteBoardConnector.g.cs
+E:\0.work\06. demos\omcs_1031\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\OMCS.WPF_MarkupCompile.cache
+E:\0.work\06. demos\omcs_1031\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\OMCS.WPF.g.resources
+E:\0.work\06. demos\omcs_1031\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\OMCS.WPF.Properties.Resources.resources
+E:\0.work\06. demos\omcs_1031\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\ResGen.read.1.tlog
+E:\0.work\06. demos\omcs_1031\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\ResGen.write.1.tlog
+E:\0.work\06. demos\omcs_1031\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\OMCS.WPF.dll
+E:\0.work\06. demos\omcs_1031\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\OMCS.WPF.pdb
+E:\0.work\06. demos\omcs_demos 2015.3.24\2.OMCS.Demos.WPF\OMCS.WPF\bin\Debug\OMCS.WPF.XML
+E:\0.work\06. demos\omcs_demos 2015.3.24\2.OMCS.Demos.WPF\OMCS.WPF\bin\Debug\OMCS.WPF.dll
+E:\0.work\06. demos\omcs_demos 2015.3.24\2.OMCS.Demos.WPF\OMCS.WPF\bin\Debug\OMCS.WPF.pdb
+E:\0.work\06. demos\omcs_demos 2015.3.24\2.OMCS.Demos.WPF\OMCS.WPF\bin\Debug\ESBasic.dll
+E:\0.work\06. demos\omcs_demos 2015.3.24\2.OMCS.Demos.WPF\OMCS.WPF\bin\Debug\OMCS.dll
+E:\0.work\06. demos\omcs_demos 2015.3.24\2.OMCS.Demos.WPF\OMCS.WPF\bin\Debug\PaintFramework.dll
+E:\0.work\06. demos\omcs_demos 2015.3.24\2.OMCS.Demos.WPF\OMCS.WPF\bin\Debug\ESBasic.xml
+E:\0.work\06. demos\omcs_demos 2015.3.24\2.OMCS.Demos.WPF\OMCS.WPF\bin\Debug\OMCS.xml
+E:\0.work\06. demos\omcs_demos 2015.3.24\2.OMCS.Demos.WPF\OMCS.WPF\bin\Debug\PaintFramework.xml
+E:\0.work\06. demos\omcs_demos 2015.3.24\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\ResolveAssemblyReference.cache
+E:\0.work\06. demos\omcs_demos 2015.3.24\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\CameraConnector.baml
+E:\0.work\06. demos\omcs_demos 2015.3.24\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\ChannelQualityDisplayer.baml
+E:\0.work\06. demos\omcs_demos 2015.3.24\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\DesktopConnector.baml
+E:\0.work\06. demos\omcs_demos 2015.3.24\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\WhiteBoardConnector.baml
+E:\0.work\06. demos\omcs_demos 2015.3.24\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\CameraConnector.g.cs
+E:\0.work\06. demos\omcs_demos 2015.3.24\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\ChannelQualityDisplayer.g.cs
+E:\0.work\06. demos\omcs_demos 2015.3.24\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\DesktopConnector.g.cs
+E:\0.work\06. demos\omcs_demos 2015.3.24\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\WhiteBoardConnector.g.cs
+E:\0.work\06. demos\omcs_demos 2015.3.24\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\OMCS.WPF_MarkupCompile.cache
+E:\0.work\06. demos\omcs_demos 2015.3.24\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\OMCS.WPF.g.resources
+E:\0.work\06. demos\omcs_demos 2015.3.24\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\OMCS.WPF.Properties.Resources.resources
+E:\0.work\06. demos\omcs_demos 2015.3.24\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\ResGen.read.1.tlog
+E:\0.work\06. demos\omcs_demos 2015.3.24\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\ResGen.write.1.tlog
+E:\0.work\06. demos\omcs_demos 2015.3.24\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\OMCS.WPF.dll
+E:\0.work\06. demos\omcs_demos 2015.3.24\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\OMCS.WPF.pdb
+C:\Users\zhuhao\Desktop\新建文件夹\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\OMCS.WPF.csprojResolveAssemblyReference.cache
+C:\Users\zhuhao\Desktop\新建文件夹\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\CameraConnector.baml
+C:\Users\zhuhao\Desktop\新建文件夹\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\ChannelQualityDisplayer.baml
+C:\Users\zhuhao\Desktop\新建文件夹\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\DesktopConnector.baml
+C:\Users\zhuhao\Desktop\新建文件夹\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\WhiteBoardConnector.baml
+C:\Users\zhuhao\Desktop\新建文件夹\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\CameraConnector.g.cs
+C:\Users\zhuhao\Desktop\新建文件夹\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\ChannelQualityDisplayer.g.cs
+C:\Users\zhuhao\Desktop\新建文件夹\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\DesktopConnector.g.cs
+C:\Users\zhuhao\Desktop\新建文件夹\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\WhiteBoardConnector.g.cs
+C:\Users\zhuhao\Desktop\新建文件夹\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\OMCS.WPF_MarkupCompile.cache
+C:\Users\zhuhao\Desktop\新建文件夹\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\OMCS.WPF.g.resources
+C:\Users\zhuhao\Desktop\新建文件夹\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\OMCS.WPF.Properties.Resources.resources
+C:\Users\zhuhao\Desktop\新建文件夹\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\OMCS.WPF.csproj.GenerateResource.Cache
+C:\Users\zhuhao\Desktop\新建文件夹\2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\OMCS.WPF.pdb
+C:\Users\zhuhao\Desktop\新建文件夹\？2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\CameraConnector.baml
+C:\Users\zhuhao\Desktop\新建文件夹\？2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\ChannelQualityDisplayer.baml
+C:\Users\zhuhao\Desktop\新建文件夹\？2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\DesktopConnector.baml
+C:\Users\zhuhao\Desktop\新建文件夹\？2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\WhiteBoardConnector.baml
+C:\Users\zhuhao\Desktop\新建文件夹\？2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\CameraConnector.g.cs
+C:\Users\zhuhao\Desktop\新建文件夹\？2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\ChannelQualityDisplayer.g.cs
+C:\Users\zhuhao\Desktop\新建文件夹\？2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\DesktopConnector.g.cs
+C:\Users\zhuhao\Desktop\新建文件夹\？2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\WhiteBoardConnector.g.cs
+C:\Users\zhuhao\Desktop\新建文件夹\？2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\OMCS.WPF_MarkupCompile.cache
+C:\Users\zhuhao\Desktop\新建文件夹\？2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\OMCS.WPF.g.resources
+C:\Users\zhuhao\Desktop\新建文件夹\？2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\OMCS.WPF.Properties.Resources.resources
+C:\Users\zhuhao\Desktop\新建文件夹\？2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\OMCS.WPF.csproj.GenerateResource.Cache
+C:\Users\zhuhao\Desktop\新建文件夹\？2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\OMCS.WPF.pdb
+C:\Users\zhuhao\Desktop\新建文件夹\？2.OMCS.Demos.WPF\OMCS.WPF\bin\Debug\OMCS.WPF.dll
+C:\Users\zhuhao\Desktop\新建文件夹\？2.OMCS.Demos.WPF\OMCS.WPF\bin\Debug\OMCS.WPF.pdb
+C:\Users\zhuhao\Desktop\新建文件夹\？2.OMCS.Demos.WPF\OMCS.WPF\bin\Debug\ESBasic.dll
+C:\Users\zhuhao\Desktop\新建文件夹\？2.OMCS.Demos.WPF\OMCS.WPF\bin\Debug\OMCS.dll
+C:\Users\zhuhao\Desktop\新建文件夹\？2.OMCS.Demos.WPF\OMCS.WPF\bin\Debug\PaintFramework.dll
+C:\Users\zhuhao\Desktop\新建文件夹\？2.OMCS.Demos.WPF\OMCS.WPF\bin\Debug\ESBasic.xml
+C:\Users\zhuhao\Desktop\新建文件夹\？2.OMCS.Demos.WPF\OMCS.WPF\bin\Debug\OMCS.xml
+C:\Users\zhuhao\Desktop\新建文件夹\？2.OMCS.Demos.WPF\OMCS.WPF\bin\Debug\PaintFramework.xml
+C:\Users\zhuhao\Desktop\新建文件夹\？2.OMCS.Demos.WPF\OMCS.WPF\obj\Debug\OMCS.WPF.dll
+C:\Users\david\Desktop\OMCS.Boost\OMCS.WPF\bin\Debug\OMCS.WPF.XML
+C:\Users\david\Desktop\OMCS.Boost\OMCS.WPF\bin\Debug\OMCS.WPF.dll
+C:\Users\david\Desktop\OMCS.Boost\OMCS.WPF\bin\Debug\OMCS.WPF.pdb
+C:\Users\david\Desktop\OMCS.Boost\OMCS.WPF\bin\Debug\ESBasic.dll
+C:\Users\david\Desktop\OMCS.Boost\OMCS.WPF\bin\Debug\OMCS.dll
+C:\Users\david\Desktop\OMCS.Boost\OMCS.WPF\bin\Debug\PaintFramework.dll
+C:\Users\david\Desktop\OMCS.Boost\OMCS.WPF\bin\Debug\ESBasic.xml
+C:\Users\david\Desktop\OMCS.Boost\OMCS.WPF\bin\Debug\OMCS.xml
+C:\Users\david\Desktop\OMCS.Boost\OMCS.WPF\obj\Debug\OMCS.WPF.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\OMCS.Boost\OMCS.WPF\obj\Debug\CameraConnector.baml
+C:\Users\david\Desktop\OMCS.Boost\OMCS.WPF\obj\Debug\DesktopConnector.baml
+C:\Users\david\Desktop\OMCS.Boost\OMCS.WPF\obj\Debug\WhiteBoardConnector.baml
+C:\Users\david\Desktop\OMCS.Boost\OMCS.WPF\obj\Debug\CameraConnector.g.cs
+C:\Users\david\Desktop\OMCS.Boost\OMCS.WPF\obj\Debug\DesktopConnector.g.cs
+C:\Users\david\Desktop\OMCS.Boost\OMCS.WPF\obj\Debug\WhiteBoardConnector.g.cs
+C:\Users\david\Desktop\OMCS.Boost\OMCS.WPF\obj\Debug\OMCS.WPF_MarkupCompile.cache
+C:\Users\david\Desktop\OMCS.Boost\OMCS.WPF\obj\Debug\OMCS.WPF.g.resources
+C:\Users\david\Desktop\OMCS.Boost\OMCS.WPF\obj\Debug\OMCS.WPF.Properties.Resources.resources
+C:\Users\david\Desktop\OMCS.Boost\OMCS.WPF\obj\Debug\OMCS.WPF.csproj.GenerateResource.Cache
+C:\Users\david\Desktop\OMCS.Boost\OMCS.WPF\obj\Debug\OMCS.WPF.dll
+C:\Users\david\Desktop\OMCS.Boost\OMCS.WPF\obj\Debug\OMCS.WPF.pdb
+C:\Users\david\Desktop\OMCS.Boosts\OMCS.WPF\bin\Debug\OMCS.WPF.XML
+C:\Users\david\Desktop\OMCS.Boosts\OMCS.WPF\bin\Debug\OMCS.WPF.dll
+C:\Users\david\Desktop\OMCS.Boosts\OMCS.WPF\bin\Debug\OMCS.WPF.pdb
+C:\Users\david\Desktop\OMCS.Boosts\OMCS.WPF\bin\Debug\ESBasic.dll
+C:\Users\david\Desktop\OMCS.Boosts\OMCS.WPF\bin\Debug\OMCS.dll
+C:\Users\david\Desktop\OMCS.Boosts\OMCS.WPF\bin\Debug\PaintFramework.dll
+C:\Users\david\Desktop\OMCS.Boosts\OMCS.WPF\bin\Debug\ESBasic.xml
+C:\Users\david\Desktop\OMCS.Boosts\OMCS.WPF\bin\Debug\OMCS.xml
+C:\Users\david\Desktop\OMCS.Boosts\OMCS.WPF\obj\Debug\OMCS.WPF.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\OMCS.Boosts\OMCS.WPF\obj\Debug\CameraConnector.baml
+C:\Users\david\Desktop\OMCS.Boosts\OMCS.WPF\obj\Debug\DesktopConnector.baml
+C:\Users\david\Desktop\OMCS.Boosts\OMCS.WPF\obj\Debug\WhiteBoardConnector.baml
+C:\Users\david\Desktop\OMCS.Boosts\OMCS.WPF\obj\Debug\CameraConnector.g.cs
+C:\Users\david\Desktop\OMCS.Boosts\OMCS.WPF\obj\Debug\DesktopConnector.g.cs
+C:\Users\david\Desktop\OMCS.Boosts\OMCS.WPF\obj\Debug\WhiteBoardConnector.g.cs
+C:\Users\david\Desktop\OMCS.Boosts\OMCS.WPF\obj\Debug\OMCS.WPF_MarkupCompile.cache
+C:\Users\david\Desktop\OMCS.Boosts\OMCS.WPF\obj\Debug\OMCS.WPF.g.resources
+C:\Users\david\Desktop\OMCS.Boosts\OMCS.WPF\obj\Debug\OMCS.WPF.Properties.Resources.resources
+C:\Users\david\Desktop\OMCS.Boosts\OMCS.WPF\obj\Debug\OMCS.WPF.csproj.GenerateResource.Cache
+C:\Users\david\Desktop\OMCS.Boosts\OMCS.WPF\obj\Debug\OMCS.WPF.dll
+C:\Users\david\Desktop\OMCS.Boosts\OMCS.WPF\obj\Debug\OMCS.WPF.pdb
+D:\0.oraycn\1.Project\00.OMCS.Boosts\OMCS.WPF\obj\Debug\OMCS.WPF.csprojResolveAssemblyReference.cache
+D:\0.oraycn\1.Project\00.OMCS.Boosts\OMCS.WPF\obj\Debug\CameraConnector.baml
+D:\0.oraycn\1.Project\00.OMCS.Boosts\OMCS.WPF\obj\Debug\DesktopConnector.baml
+D:\0.oraycn\1.Project\00.OMCS.Boosts\OMCS.WPF\obj\Debug\WhiteBoardConnector.baml
+D:\0.oraycn\1.Project\00.OMCS.Boosts\OMCS.WPF\obj\Debug\CameraConnector.g.cs
+D:\0.oraycn\1.Project\00.OMCS.Boosts\OMCS.WPF\obj\Debug\DesktopConnector.g.cs
+D:\0.oraycn\1.Project\00.OMCS.Boosts\OMCS.WPF\obj\Debug\WhiteBoardConnector.g.cs
+D:\0.oraycn\1.Project\00.OMCS.Boosts\OMCS.WPF\obj\Debug\OMCS.WPF_MarkupCompile.cache
+D:\0.oraycn\1.Project\00.OMCS.Boosts\OMCS.WPF\obj\Debug\OMCS.WPF.g.resources
+D:\0.oraycn\1.Project\00.OMCS.Boosts\OMCS.WPF\obj\Debug\OMCS.WPF.Properties.Resources.resources
+D:\0.oraycn\1.Project\00.OMCS.Boosts\OMCS.WPF\obj\Debug\OMCS.WPF.csproj.GenerateResource.Cache
+D:\0.oraycn\1.Project\00.OMCS.Boosts\OMCS.WPF\bin\Debug\OMCS.WPF.XML
+D:\0.oraycn\1.Project\00.OMCS.Boosts\OMCS.WPF\bin\Debug\OMCS.WPF.dll
+D:\0.oraycn\1.Project\00.OMCS.Boosts\OMCS.WPF\bin\Debug\OMCS.WPF.pdb
+D:\0.oraycn\1.Project\00.OMCS.Boosts\OMCS.WPF\bin\Debug\ESBasic.dll
+D:\0.oraycn\1.Project\00.OMCS.Boosts\OMCS.WPF\bin\Debug\OMCS.dll
+D:\0.oraycn\1.Project\00.OMCS.Boosts\OMCS.WPF\bin\Debug\PaintFramework.dll
+D:\0.oraycn\1.Project\00.OMCS.Boosts\OMCS.WPF\bin\Debug\ESBasic.xml
+D:\0.oraycn\1.Project\00.OMCS.Boosts\OMCS.WPF\bin\Debug\OMCS.xml
+D:\0.oraycn\1.Project\00.OMCS.Boosts\OMCS.WPF\obj\Debug\OMCS.WPF.dll
+D:\0.oraycn\1.Project\00.OMCS.Boosts\OMCS.WPF\obj\Debug\OMCS.WPF.pdb
+D:\0.oraycn\1.OrayProject\02.OMCS.Boosts\OMCS.WPF\bin\Debug\OMCS.WPF.XML
+D:\0.oraycn\1.OrayProject\02.OMCS.Boosts\OMCS.WPF\bin\Debug\OMCS.WPF.dll
+D:\0.oraycn\1.OrayProject\02.OMCS.Boosts\OMCS.WPF\bin\Debug\OMCS.WPF.pdb
+D:\0.oraycn\1.OrayProject\02.OMCS.Boosts\OMCS.WPF\bin\Debug\ESBasic.dll
+D:\0.oraycn\1.OrayProject\02.OMCS.Boosts\OMCS.WPF\bin\Debug\OMCS.dll
+D:\0.oraycn\1.OrayProject\02.OMCS.Boosts\OMCS.WPF\bin\Debug\ESBasic.xml
+D:\0.oraycn\1.OrayProject\02.OMCS.Boosts\OMCS.WPF\bin\Debug\OMCS.xml
+D:\0.oraycn\1.OrayProject\02.OMCS.Boosts\OMCS.WPF\obj\Debug\OMCS.WPF.csprojResolveAssemblyReference.cache
+D:\0.oraycn\1.OrayProject\02.OMCS.Boosts\OMCS.WPF\obj\Debug\CameraConnector.baml
+D:\0.oraycn\1.OrayProject\02.OMCS.Boosts\OMCS.WPF\obj\Debug\DesktopConnector.baml
+D:\0.oraycn\1.OrayProject\02.OMCS.Boosts\OMCS.WPF\obj\Debug\WhiteBoardConnector.baml
+D:\0.oraycn\1.OrayProject\02.OMCS.Boosts\OMCS.WPF\obj\Debug\CameraConnector.g.cs
+D:\0.oraycn\1.OrayProject\02.OMCS.Boosts\OMCS.WPF\obj\Debug\DesktopConnector.g.cs
+D:\0.oraycn\1.OrayProject\02.OMCS.Boosts\OMCS.WPF\obj\Debug\WhiteBoardConnector.g.cs
+D:\0.oraycn\1.OrayProject\02.OMCS.Boosts\OMCS.WPF\obj\Debug\OMCS.WPF_MarkupCompile.cache
+D:\0.oraycn\1.OrayProject\02.OMCS.Boosts\OMCS.WPF\obj\Debug\OMCS.WPF.g.resources
+D:\0.oraycn\1.OrayProject\02.OMCS.Boosts\OMCS.WPF\obj\Debug\OMCS.WPF.Properties.Resources.resources
+D:\0.oraycn\1.OrayProject\02.OMCS.Boosts\OMCS.WPF\obj\Debug\OMCS.WPF.csproj.GenerateResource.Cache
+D:\0.oraycn\1.OrayProject\02.OMCS.Boosts\OMCS.WPF\obj\Debug\OMCS.WPF.dll
+D:\0.oraycn\1.OrayProject\02.OMCS.Boosts\OMCS.WPF\obj\Debug\OMCS.WPF.pdb
+E:\替换dll\OMCS.Boosts\OMCS.WPF\bin\Debug\OMCS.WPF.XML
+E:\替换dll\OMCS.Boosts\OMCS.WPF\bin\Debug\OMCS.WPF.dll
+E:\替换dll\OMCS.Boosts\OMCS.WPF\bin\Debug\OMCS.WPF.pdb
+E:\替换dll\OMCS.Boosts\OMCS.WPF\bin\Debug\ESBasic.dll
+E:\替换dll\OMCS.Boosts\OMCS.WPF\bin\Debug\OMCS.dll
+E:\替换dll\OMCS.Boosts\OMCS.WPF\bin\Debug\ESBasic.xml
+E:\替换dll\OMCS.Boosts\OMCS.WPF\bin\Debug\OMCS.xml
+E:\替换dll\OMCS.Boosts\OMCS.WPF\obj\Debug\OMCS.WPF.csprojResolveAssemblyReference.cache
+E:\替换dll\OMCS.Boosts\OMCS.WPF\obj\Debug\CameraConnector.baml
+E:\替换dll\OMCS.Boosts\OMCS.WPF\obj\Debug\DesktopConnector.baml
+E:\替换dll\OMCS.Boosts\OMCS.WPF\obj\Debug\WhiteBoardConnector.baml
+E:\替换dll\OMCS.Boosts\OMCS.WPF\obj\Debug\CameraConnector.g.cs
+E:\替换dll\OMCS.Boosts\OMCS.WPF\obj\Debug\DesktopConnector.g.cs
+E:\替换dll\OMCS.Boosts\OMCS.WPF\obj\Debug\WhiteBoardConnector.g.cs
+E:\替换dll\OMCS.Boosts\OMCS.WPF\obj\Debug\OMCS.WPF_MarkupCompile.cache
+E:\替换dll\OMCS.Boosts\OMCS.WPF\obj\Debug\OMCS.WPF.g.resources
+E:\替换dll\OMCS.Boosts\OMCS.WPF\obj\Debug\OMCS.WPF.Properties.Resources.resources
+E:\替换dll\OMCS.Boosts\OMCS.WPF\obj\Debug\OMCS.WPF.csproj.GenerateResource.Cache
+E:\替换dll\OMCS.Boosts\OMCS.WPF\obj\Debug\OMCS.WPF.dll
+E:\替换dll\OMCS.Boosts\OMCS.WPF\obj\Debug\OMCS.WPF.pdb

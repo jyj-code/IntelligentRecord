@@ -1,0 +1,106 @@
+c:\users\zhuhao\documents\visual studio 2010\Projects\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.csproj.GenerateResource.Cache
+c:\users\zhuhao\documents\visual studio 2010\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\IntelligentRecord.exe
+c:\users\zhuhao\documents\visual studio 2010\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\IntelligentRecord.pdb
+c:\users\zhuhao\documents\visual studio 2010\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\CSkin.dll
+c:\users\zhuhao\documents\visual studio 2010\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\ESBasic.dll
+c:\users\zhuhao\documents\visual studio 2010\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\OMCS.Boost.dll
+c:\users\zhuhao\documents\visual studio 2010\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\OMCS.dll
+c:\users\zhuhao\documents\visual studio 2010\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\Oraycn.MCapture.dll
+c:\users\zhuhao\documents\visual studio 2010\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\Oraycn.MFile.dll
+c:\users\zhuhao\documents\visual studio 2010\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\OMCS.Boost.pdb
+c:\users\zhuhao\documents\visual studio 2010\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\OMCS.Boost.xml
+c:\users\zhuhao\documents\visual studio 2010\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\ESBasic.xml
+c:\users\zhuhao\documents\visual studio 2010\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\OMCS.xml
+c:\users\zhuhao\documents\visual studio 2010\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\Oraycn.MCapture.xml
+c:\users\zhuhao\documents\visual studio 2010\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\Oraycn.MFile.xml
+c:\users\zhuhao\documents\visual studio 2010\Projects\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.csprojResolveAssemblyReference.cache
+c:\users\zhuhao\documents\visual studio 2010\Projects\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.Form1.resources
+c:\users\zhuhao\documents\visual studio 2010\Projects\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.Properties.Resources.resources
+c:\users\zhuhao\documents\visual studio 2010\Projects\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.exe
+c:\users\zhuhao\documents\visual studio 2010\Projects\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.pdb
+c:\users\zhuhao\documents\visual studio 2010\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\IntelligentRecord.exe.config
+E:\Projects\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.csprojResolveAssemblyReference.cache
+E:\Projects\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.Form1.resources
+E:\Projects\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.Properties.Resources.resources
+E:\Projects\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.csproj.GenerateResource.Cache
+E:\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\IntelligentRecord.exe.config
+E:\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\IntelligentRecord.exe
+E:\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\IntelligentRecord.pdb
+E:\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\CSkin.dll
+E:\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\ESBasic.dll
+E:\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\OMCS.Boost.dll
+E:\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\OMCS.dll
+E:\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\Oraycn.MCapture.dll
+E:\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\Oraycn.MFile.dll
+E:\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\OMCS.Boost.pdb
+E:\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\OMCS.Boost.xml
+E:\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\ESBasic.xml
+E:\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\OMCS.xml
+E:\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\Oraycn.MCapture.xml
+E:\Projects\IntelligentRecord\IntelligentRecord\bin\Debug\Oraycn.MFile.xml
+E:\Projects\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.exe
+E:\Projects\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.pdb
+G:\替换工具\临时替换区\work\IntelligentRecord\IntelligentRecord\bin\Debug\IntelligentRecord.exe.config
+G:\替换工具\临时替换区\work\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.exe
+G:\替换工具\临时替换区\work\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.pdb
+G:\替换工具\临时替换区\work\IntelligentRecord\IntelligentRecord\bin\Debug\IntelligentRecord.exe
+G:\替换工具\临时替换区\work\IntelligentRecord\IntelligentRecord\bin\Debug\CSkin.dll
+G:\替换工具\临时替换区\work\IntelligentRecord\IntelligentRecord\bin\Debug\ESBasic.dll
+G:\替换工具\临时替换区\work\IntelligentRecord\IntelligentRecord\bin\Debug\OMCS.Boost.dll
+G:\替换工具\临时替换区\work\IntelligentRecord\IntelligentRecord\bin\Debug\OMCS.dll
+G:\替换工具\临时替换区\work\IntelligentRecord\IntelligentRecord\bin\Debug\Oraycn.MCapture.dll
+G:\替换工具\临时替换区\work\IntelligentRecord\IntelligentRecord\bin\Debug\Oraycn.MFile.dll
+G:\替换工具\临时替换区\work\IntelligentRecord\IntelligentRecord\bin\Debug\OMCS.Boost.pdb
+G:\替换工具\临时替换区\work\IntelligentRecord\IntelligentRecord\bin\Debug\OMCS.Boost.xml
+G:\替换工具\临时替换区\work\IntelligentRecord\IntelligentRecord\bin\Debug\ESBasic.xml
+G:\替换工具\临时替换区\work\IntelligentRecord\IntelligentRecord\bin\Debug\OMCS.xml
+G:\替换工具\临时替换区\work\IntelligentRecord\IntelligentRecord\bin\Debug\Oraycn.MCapture.xml
+G:\替换工具\临时替换区\work\IntelligentRecord\IntelligentRecord\bin\Debug\Oraycn.MFile.xml
+G:\替换工具\临时替换区\work\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.csprojResolveAssemblyReference.cache
+G:\替换工具\临时替换区\work\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.Form1.resources
+G:\替换工具\临时替换区\work\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.Properties.Resources.resources
+G:\替换工具\临时替换区\work\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.csproj.GenerateResource.Cache
+G:\替换工具\临时替换区\work\IntelligentRecord\IntelligentRecord\bin\Debug\IntelligentRecord.pdb
+C:\Users\JiangYanJun\Desktop\IntelligentRecord\IntelligentRecord\bin\Debug\IntelligentRecord.exe.config
+C:\Users\JiangYanJun\Desktop\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.exe
+C:\Users\JiangYanJun\Desktop\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.pdb
+C:\Users\JiangYanJun\Desktop\IntelligentRecord\IntelligentRecord\bin\Debug\IntelligentRecord.exe
+C:\Users\JiangYanJun\Desktop\IntelligentRecord\IntelligentRecord\bin\Debug\IntelligentRecord.pdb
+C:\Users\JiangYanJun\Desktop\IntelligentRecord\IntelligentRecord\bin\Debug\CSkin.dll
+C:\Users\JiangYanJun\Desktop\IntelligentRecord\IntelligentRecord\bin\Debug\ESBasic.dll
+C:\Users\JiangYanJun\Desktop\IntelligentRecord\IntelligentRecord\bin\Debug\OMCS.Boost.dll
+C:\Users\JiangYanJun\Desktop\IntelligentRecord\IntelligentRecord\bin\Debug\OMCS.dll
+C:\Users\JiangYanJun\Desktop\IntelligentRecord\IntelligentRecord\bin\Debug\Oraycn.MCapture.dll
+C:\Users\JiangYanJun\Desktop\IntelligentRecord\IntelligentRecord\bin\Debug\Oraycn.MFile.dll
+C:\Users\JiangYanJun\Desktop\IntelligentRecord\IntelligentRecord\bin\Debug\OMCS.Boost.pdb
+C:\Users\JiangYanJun\Desktop\IntelligentRecord\IntelligentRecord\bin\Debug\OMCS.Boost.xml
+C:\Users\JiangYanJun\Desktop\IntelligentRecord\IntelligentRecord\bin\Debug\ESBasic.xml
+C:\Users\JiangYanJun\Desktop\IntelligentRecord\IntelligentRecord\bin\Debug\OMCS.xml
+C:\Users\JiangYanJun\Desktop\IntelligentRecord\IntelligentRecord\bin\Debug\Oraycn.MCapture.xml
+C:\Users\JiangYanJun\Desktop\IntelligentRecord\IntelligentRecord\bin\Debug\Oraycn.MFile.xml
+C:\Users\JiangYanJun\Desktop\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.csprojResolveAssemblyReference.cache
+C:\Users\JiangYanJun\Desktop\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.Form1.resources
+C:\Users\JiangYanJun\Desktop\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.Properties.Resources.resources
+C:\Users\JiangYanJun\Desktop\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.csproj.GenerateResource.Cache
+D:\工作室\新项目\IntelligentRecord\IntelligentRecord\bin\Debug\IntelligentRecord.exe.config
+D:\工作室\新项目\IntelligentRecord\IntelligentRecord\bin\Debug\IntelligentRecord.exe
+D:\工作室\新项目\IntelligentRecord\IntelligentRecord\bin\Debug\IntelligentRecord.pdb
+D:\工作室\新项目\IntelligentRecord\IntelligentRecord\bin\Debug\CSkin.dll
+D:\工作室\新项目\IntelligentRecord\IntelligentRecord\bin\Debug\ESBasic.dll
+D:\工作室\新项目\IntelligentRecord\IntelligentRecord\bin\Debug\OMCS.Boost.dll
+D:\工作室\新项目\IntelligentRecord\IntelligentRecord\bin\Debug\OMCS.dll
+D:\工作室\新项目\IntelligentRecord\IntelligentRecord\bin\Debug\Oraycn.MCapture.dll
+D:\工作室\新项目\IntelligentRecord\IntelligentRecord\bin\Debug\Oraycn.MFile.dll
+D:\工作室\新项目\IntelligentRecord\IntelligentRecord\bin\Debug\OMCS.Boost.pdb
+D:\工作室\新项目\IntelligentRecord\IntelligentRecord\bin\Debug\OMCS.Boost.xml
+D:\工作室\新项目\IntelligentRecord\IntelligentRecord\bin\Debug\ESBasic.xml
+D:\工作室\新项目\IntelligentRecord\IntelligentRecord\bin\Debug\OMCS.xml
+D:\工作室\新项目\IntelligentRecord\IntelligentRecord\bin\Debug\Oraycn.MCapture.xml
+D:\工作室\新项目\IntelligentRecord\IntelligentRecord\bin\Debug\Oraycn.MFile.xml
+D:\工作室\新项目\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.csprojResolveAssemblyReference.cache
+D:\工作室\新项目\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.Form1.resources
+D:\工作室\新项目\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.Properties.Resources.resources
+D:\工作室\新项目\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.csproj.GenerateResource.Cache
+D:\工作室\新项目\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.csproj.CoreCompileInputs.cache
+D:\工作室\新项目\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.exe
+D:\工作室\新项目\IntelligentRecord\IntelligentRecord\obj\x86\Debug\IntelligentRecord.pdb

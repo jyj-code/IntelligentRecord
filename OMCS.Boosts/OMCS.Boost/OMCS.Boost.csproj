@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F7A37264-B384-4621-9055-D0B91040158D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OMCS.Boost</RootNamespace>
+    <AssemblyName>OMCS.Boost</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\OMCS.Boost.xml</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CSkin, Version=12.8.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dlls\CSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="ESBasic, Version=2.0.0.0, Culture=neutral, PublicKeyToken=ba1538489f75683e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dlls\ESBasic.dll</HintPath>
+    </Reference>
+    <Reference Include="OMCS">
+      <HintPath>..\Dlls\OMCS.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AgileMultimediaManager.cs" />
+    <Compile Include="Common.cs" />
+    <Compile Include="Controls\AudioChatHandlePanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\AudioChatHandlePanel.Designer.cs">
+      <DependentUpon>AudioChatHandlePanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\AutoScaleContainer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\AutoScaleContainer.Designer.cs">
+      <DependentUpon>AutoScaleContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\CameraComboBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\CameraComboBox.Designer.cs">
+      <DependentUpon>CameraComboBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ChannelQualityDisplayer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ChannelQualityDisplayer.Designer.cs">
+      <DependentUpon>ChannelQualityDisplayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\DecibelDisplayer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\DecibelDisplayer.Designer.cs">
+      <DependentUpon>DecibelDisplayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\FourierTransformer.cs" />
+    <Compile Include="Controls\DoubleBufferPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\DoubleBufferPanel.Designer.cs">
+      <DependentUpon>DoubleBufferPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DeviceSelectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DeviceSelectForm.Designer.cs">
+      <DependentUpon>DeviceSelectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\RemoteDeskForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\RemoteDeskForm.Designer.cs">
+      <DependentUpon>RemoteDeskForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\RemoteDeskHandlePanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\RemoteDeskHandlePanel.Designer.cs">
+      <DependentUpon>RemoteDeskHandlePanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\RemoteDeskRequestPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\RemoteDeskRequestPanel.Designer.cs">
+      <DependentUpon>RemoteDeskRequestPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\VideoChatRequestPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\VideoChatRequestPanel.Designer.cs">
+      <DependentUpon>VideoChatRequestPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnumDescriptor.cs" />
+    <Compile Include="Forms\OmcsServerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OmcsServerForm.Designer.cs">
+      <DependentUpon>OmcsServerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\VideoChatForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\VideoChatForm.Designer.cs">
+      <DependentUpon>VideoChatForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MultiChat\MultiAudioChatContainer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MultiChat\MultiAudioChatContainer.Designer.cs">
+      <DependentUpon>MultiAudioChatContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MultiChat\MultiVideoChatContainer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MultiChat\MultiVideoChatContainer.Designer.cs">
+      <DependentUpon>MultiVideoChatContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MultiChat\SpeakerAudioPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MultiChat\SpeakerAudioPanel.Designer.cs">
+      <DependentUpon>SpeakerAudioPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MultiChat\SpeakerVideoPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MultiChat\SpeakerVideoPanel.Designer.cs">
+      <DependentUpon>SpeakerVideoPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MultimediaManagerHelper.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Controls\AudioChatHandlePanel.resx">
+      <DependentUpon>AudioChatHandlePanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\AutoScaleContainer.resx">
+      <DependentUpon>AutoScaleContainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\CameraComboBox.resx">
+      <DependentUpon>CameraComboBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ChannelQualityDisplayer.resx">
+      <DependentUpon>ChannelQualityDisplayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\DecibelDisplayer.resx">
+      <DependentUpon>DecibelDisplayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\DoubleBufferPanel.resx">
+      <DependentUpon>DoubleBufferPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DeviceSelectForm.resx">
+      <DependentUpon>DeviceSelectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\RemoteDeskForm.resx">
+      <DependentUpon>RemoteDeskForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\RemoteDeskHandlePanel.resx">
+      <DependentUpon>RemoteDeskHandlePanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\RemoteDeskRequestPanel.resx">
+      <DependentUpon>RemoteDeskRequestPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\VideoChatRequestPanel.resx">
+      <DependentUpon>VideoChatRequestPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OmcsServerForm.resx">
+      <DependentUpon>OmcsServerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\VideoChatForm.resx">
+      <DependentUpon>VideoChatForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MultiChat\MultiAudioChatContainer.resx">
+      <DependentUpon>MultiAudioChatContainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MultiChat\MultiVideoChatContainer.resx">
+      <DependentUpon>MultiVideoChatContainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MultiChat\SpeakerAudioPanel.resx">
+      <DependentUpon>SpeakerAudioPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MultiChat\SpeakerVideoPanel.resx">
+      <DependentUpon>SpeakerVideoPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
